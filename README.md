@@ -7,7 +7,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-LLM-yellow?logo=huggingface)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-orange)
 ![Status](https://img.shields.io/badge/Status-Learning%20Project-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ### Developed by **[Ghulam Muhammad]**
 *Building the foundation for Agentic AI in 2026*
@@ -109,7 +108,7 @@ Demonstrates:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/langchain-output-parsers-playground.git
+git clone https://github.com/imabid141/langchain-output-parsers-playground.git
 cd langchain-output-parsers-playground
 ````
 
